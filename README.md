@@ -46,17 +46,19 @@ Welcome to the **Medical Store Management System**, an advanced program written 
    ```bash
    git clone https://github.com/your-username/medical-store-management-system.git
    cd medical-store-management-system
-  ```
+   ```
 
 2. Assemble the program:
-  ```bash
-  tasm medical-store.asm
-  tlink medical-store.obj
-  ```
-3.Run the program in DOSBox:
-  ```bash
-  medical-store.exe
-  ```
+   ```bash
+     tasm medical-store.asm
+     tlink medical-store.obj
+   ```
+
+3. Run the program in DOSBox:
+    ```bash
+     medical-store.exe
+   ```
+---
 
 # 🛍️ Medicine Options
 1️⃣ **Panadol** - 4rs  
@@ -89,4 +91,20 @@ Before accessing the menu, users must enter the password:
 2. Create a new branch:  
    ```bash
    git checkout -b feature-name
-  ```
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Added new feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Create a pull request 🚀.
+
+---
+## 👨‍💻 About the Author 
+Haider Manzoor
+Department: Data Science, University of the Punjab.
+- **Github**: [Haider Manzoor](https://github.com/haidermanzoor)
+- **LinkedIn**: [Haider Manzoor](https://www.linkedin.com/in/muhammad-haider-manzoor?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
